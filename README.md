@@ -4,7 +4,7 @@
 
 <h3>--What is this ?--</h3>
 
-Activates a window in which you can count the number of characters in the document you have entered.
+Windwos software that can display a window to count the number of characters in a sentence you type.
 Pressing the Show/Hide button will display a text box unrelated to the text box where the character count is performed. 
 
 <h3>--Others--</h3>
